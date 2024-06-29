@@ -1,13 +1,13 @@
 # AutoDetectAI
 
-AutoDetectAI is a Python-based application for real-time binary classification using computer vision techniques. It enables users to annotate video frames, train a model, and predict accident scenarios with high accuracy.
+AutoDetectAI is a Python-based application for real-time binary classification using computer vision techniques. It enables users to annotate video frames, train a model, and predict the scenarios with high accuracy.
 
 ## Features
 
 - **Real-time Video Input:** Choose between camera or video file input for real-time frame processing.
-- **Frame Annotation:** Interactive frame annotation using mouse events for marking accident scenarios.
+- **Frame Annotation:** Interactive frame annotation using mouse events for marking desired scenarios.
 - **Model Training:** Train and retrain the model based on annotated data to improve accuracy.
-- **Prediction:** Predict accident scenarios in real-time with confidence scores.
+- **Prediction:** Predict the scenarios in real-time with confidence scores.
 - **Retrain:** After predicting if it predicts wrong you can again train the model with new data frames in single go.
 
 ## Installation
@@ -51,7 +51,7 @@ AutoDetectAI is a Python-based application for real-time binary classification u
 
 
 4. **Annotation:**
-   - Use left mouse button to draw rectangles around accident scenarios.
+   - Use left mouse button to draw rectangles around the desired scenarios.
    - Give the label to the detected frame and bbox.
 
 
