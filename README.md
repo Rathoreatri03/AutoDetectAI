@@ -71,7 +71,7 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]((https://github.com/Rathoreatri03/AutoDetectAI/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Rathoreatri03/AutoDetectAI/blob/main/LICENSE) file for details.
 
 ## Support
 
